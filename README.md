@@ -8,7 +8,7 @@ Currently exploring **Applied AI, RAG systems, LLM agents, and scalable applicat
 
 ---
 
-## 🚀 Impact & Engineering Highlights
+## Impact & Engineering Highlights
 
 | Achievement | Outcome |
 |---|---|
@@ -18,7 +18,7 @@ Currently exploring **Applied AI, RAG systems, LLM agents, and scalable applicat
 | Developer Workflow Automation | Saved approximately 10 hours per week |
 | Volunteer Impact Card Generator | 500+ cards generated on launch day |
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### 1. Local RAG Application
 **Python · FastAPI · React · TypeScript · Qdrant · PostgreSQL · Ollama · Docker**
@@ -60,7 +60,7 @@ A full-stack application with separate frontend and backend components.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Developer — Team Everest NGO**  
 February 2025 – Present
@@ -85,7 +85,7 @@ July 2024 – September 2024
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 **Languages:** Python, JavaScript, TypeScript
 
@@ -103,7 +103,7 @@ July 2024 – September 2024
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 - Advanced RAG architectures and evaluation
 - Local LLM inference and model optimisation
@@ -113,10 +113,8 @@ July 2024 – September 2024
 
 ---
 
-## 🤝 Let's Connect
-
-- **GitHub:** [@Abhio3](https://github.com/Abhio3)
+## Let's Connect
 - **Email:** aabhisheknair2003@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/codewithabi/)
 
 *I enjoy building technology that solves meaningful problems. Always open to interesting engineering challenges and opportunities to collaborate.*
