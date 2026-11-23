@@ -9,7 +9,7 @@ I build software that solves real operational problems — from full-stack appli
 ---
 ### GitHub activity
 
-<p align="center">
+<p align="left">
   <img height="160" src="https://streak-stats.demolab.com?user=Abhio3&theme=tokyonight&hide_border=true" />
 </p>
 
