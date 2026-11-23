@@ -7,6 +7,12 @@ I build software that solves real operational problems — from full-stack appli
 [Email](mailto:aabhisheknair2003@gmail.com) · [GitHub](https://github.com/Abhio3)
 
 ---
+### GitHub activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhio3&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Abhio3&theme=tokyonight&hide_border=true" />
+</p>
 
 ### What I work with
 
@@ -41,21 +47,6 @@ Detects OMR markers and aligns scanned answer sheets to a standard template. Sep
 - **Developer — Team Everest NGO** · Feb 2025–Present
 - **Frontend Developer — Swaayata Inc.** · Oct 2024–Jan 2025
 - **Python Trainee — Tech Power Solutions** · Jul 2024–Sep 2024
-
-### GitHub activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhio3&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Abhio3&theme=tokyonight&hide_border=true" />
-</p>
-
-### Contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhio3/Abhio3/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
----
 
 <p align="center">
   Currently exploring local LLM inference, RAG evaluation, AI agents, computer vision and reliable cloud architecture.
