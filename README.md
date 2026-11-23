@@ -10,7 +10,6 @@ I build software that solves real operational problems — from full-stack appli
 ### GitHub activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhio3&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
   <img height="160" src="https://streak-stats.demolab.com?user=Abhio3&theme=tokyonight&hide_border=true" />
 </p>
 
