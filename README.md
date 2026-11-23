@@ -1,120 +1,66 @@
 # Hi, I'm Abhishek 👋
 
-### Full-Stack Developer | Applied AI & Automation Engineer
+### Full-Stack Developer · Applied AI & Automation
 
-I build practical software products, AI-powered automation systems, and full-stack applications. My work focuses on solving real-world operational problems through Python, React, local LLMs, computer vision, and cloud infrastructure.
+I build software that solves real operational problems — from full-stack applications and cloud infrastructure to local AI and workflow automation.
 
-Currently exploring **Applied AI, RAG systems, LLM agents, and scalable application architecture.**
-
----
-
-## Impact & Engineering Highlights
-
-| Achievement | Outcome |
-|---|---|
-| Peer-to-Peer Fundraising Platform | Contributed to a platform that raised ₹1 Cr+ in 3 months |
-| Scholarship Assessment Automation | Automated grading for 1,700+ assessments |
-| AI Address Formatting | Reduced 3 days of manual work to under 1 hour |
-| Developer Workflow Automation | Saved approximately 10 hours per week |
-| Volunteer Impact Card Generator | 500+ cards generated on launch day |
-
-## Featured Projects
-
-### 1. Local RAG Application
-**Python · FastAPI · React · TypeScript · Qdrant · PostgreSQL · Ollama · Docker**
-
-A fully local document intelligence application that allows users to upload PDF/TXT documents and ask questions using locally hosted language models.
-
-- Document ingestion and chunking
-- Local embeddings using Ollama
-- Vector search using Qdrant
-- Persistent chat history using PostgreSQL
-- Streaming AI responses
-
-[View Repository](https://github.com/Abhio3/RAG)
-
-### 2. OMR Automation & Image Alignment
-**Python · YOLOv8 · OpenCV · PyTorch**
-
-A computer vision pipeline designed to detect OMR answer blocks and align extracted regions onto a standard template.
-
-- YOLOv8 object detection
-- PDF-to-image processing
-- Bounding-box detection and cropping
-- Automated image alignment
-- Template-based output generation
-
-[View Repository](https://github.com/Abhio3/yolov8)
-
-### 3. Worker Management Application
-**React · Flask · SQLAlchemy · SQLite**
-
-A full-stack application with separate frontend and backend components.
-
-- React-based frontend
-- Flask REST API
-- SQLAlchemy data models
-- Database-backed application workflows
-
-[View Repository](https://github.com/Abhio3/Worker-management)
+[Email](mailto:aabhisheknair2003@gmail.com) · [GitHub](https://github.com/Abhio3)
 
 ---
 
-## Professional Experience
+### What I work with
 
-**Developer — Team Everest NGO**  
-February 2025 – Present
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,angular,flask,fastapi,aws,docker,postgres,supabase,mysql,git,github&theme=dark" />
+</p>
 
-- Developed and deployed application components for fundraising and internal platforms.
-- Worked on AWS infrastructure, CloudFormation, EC2, VPC and Application Load Balancers.
-- Resolved production infrastructure issues and improved deployment reliability.
-- Developed AI-powered workflow automation using Python and local LLMs.
-- Mentored developers through code reviews and pull request management.
+### Selected impact
 
-**Frontend Developer — Swaayata Inc.**  
-October 2024 – January 2025
+- Helped deliver a fundraising platform that raised **₹1 crore+ in its first 3 months**.
+- Automated grading for **1,700+ scholarship assessments**, reducing a multi-week process to one day.
+- Built local-AI address formatting that reduced approximately **3 days of work to under 1 hour**.
+- Automated documentation and deliverable checks, saving approximately **10 hours per week**.
+- Led delivery of a volunteer impact-card generator: **500+ cards on launch day** and **300+ LinkedIn tags**.
 
-- Delivered responsive UI components using React, Bootstrap and Tailwind CSS.
+### Featured projects
 
-**Python Trainee — Tech Power Solutions**  
-July 2024 – September 2024
+**[Local RAG Document Assistant](https://github.com/Abhio3/RAG)**
 
-- Developed full-stack academic applications.
-- Built a CNN-based breast cancer prediction project.
-- Conducted a Python workshop for 200 final-year engineering students.
+Python · FastAPI · React · TypeScript · Qdrant · PostgreSQL · Ollama · Docker
 
----
+A local document Q&A application with PDF/TXT ingestion, embeddings, vector retrieval and chat history.
 
-## Technology Stack
+**[OMR Image Alignment Toolkit](https://github.com/Abhio3/yolov8)**
 
-**Languages:** Python, JavaScript, TypeScript
+Python · YOLOv8 · OpenCV
 
-**Frontend:** React, Angular, HTML, CSS, Tailwind CSS, Bootstrap
+Detects OMR markers and aligns scanned answer sheets to a standard template. Separately, I contributed to a scholarship assessment workflow using the open-source Udhayraj123 OMR Checker.
 
-**Backend:** FastAPI, Flask, REST APIs
+### Experience
 
-**AI & Machine Learning:** Ollama, Hugging Face, RAG, YOLOv8, OpenCV, PyTorch
+- **Developer — Team Everest NGO** · Feb 2025–Present
+- **Frontend Developer — Swaayata Inc.** · Oct 2024–Jan 2025
+- **Python Trainee — Tech Power Solutions** · Jul 2024–Sep 2024
 
-**Databases:** PostgreSQL, Supabase, Qdrant, MySQL, SQLite
+### GitHub activity
 
-**Cloud & Infrastructure:** AWS EC2, VPC, S3, CloudFormation, Docker
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhio3&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Abhio3&theme=tokyonight&hide_border=true" />
+</p>
 
-**Tools:** Git, GitHub, n8n, Figma, GitHub Copilot, Cursor
+### Contribution graph
 
----
-
-## Currently Exploring
-
-- Advanced RAG architectures and evaluation
-- Local LLM inference and model optimisation
-- AI agents and workflow automation
-- Computer vision and handwritten document processing
-- Scalable cloud infrastructure and system design
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhio3/Abhio3/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
 
 ---
 
-## Let's Connect
-- **Email:** aabhisheknair2003@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/codewithabi/)
+<p align="center">
+  Currently exploring local LLM inference, RAG evaluation, AI agents, computer vision and reliable cloud architecture.
+</p>
 
-*I enjoy building technology that solves meaningful problems. Always open to interesting engineering challenges and opportunities to collaborate.*
+<p align="center">
+  [Let's connect](mailto:aabhisheknair2003@gmail.com)
+</p>
